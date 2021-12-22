@@ -1,0 +1,22 @@
+.item {
+    padding: 5px;
+    margin-bottom: 3px;
+    background-color: #ECEFF4;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.item:hover {
+    background-color: #E5E9F0;
+}
+.item:active {
+    background-color:  #f8f9fb;
+}
+.item-name {
+    font-size: 14px;
+    font-weight: bold;
+}
+.item-data {
+    display: inline-block;
+    font-size: 11px;
+    margin-right: 7px;
+}
