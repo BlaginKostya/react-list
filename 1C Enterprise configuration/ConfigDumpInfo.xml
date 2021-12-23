@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="CommonForm.ОсновнаяФорма" id="58323259-f041-435d-98a3-2056b9880c35" configVersion="023a5498e353cf4bb5d0647f2bf6d16400000000"/>
+		<Metadata name="CommonForm.ОсновнаяФорма.Form" id="58323259-f041-435d-98a3-2056b9880c35.0" configVersion="4300a6571f6e724eb4dfc9870d0b276400000000"/>
+		<Metadata name="CommonTemplate.МакетReact" id="91a24b8d-8124-481b-b02a-417a0f790021" configVersion="3d8d113162729441be227cd0a1978a5b00000000"/>
+		<Metadata name="CommonTemplate.МакетReact.Template" id="91a24b8d-8124-481b-b02a-417a0f790021.0" configVersion="2f0a95637ecdc34996d3c00134f3579700000000"/>
+		<Metadata name="CommonTemplate.ОсновнойCSS" id="7d12b573-371a-4bb8-b332-e89d99ee325b" configVersion="9344aa2d89f9e04893035fb4e82e30e200000000"/>
+		<Metadata name="CommonTemplate.ОсновнойCSS.Template" id="7d12b573-371a-4bb8-b332-e89d99ee325b.0" configVersion="ca1b3395c801c9499a47ebe1a7cc578600000000"/>
+		<Metadata name="CommonTemplate.ОсновнойJavaScript" id="8ed000c5-6486-4753-8bb6-00ea07ece843" configVersion="72ad8f865d035545b0b5ae481c89b48f00000000"/>
+		<Metadata name="CommonTemplate.ОсновнойJavaScript.Template" id="8ed000c5-6486-4753-8bb6-00ea07ece843.0" configVersion="4f03393553ecdc48a366a0d02501d7c100000000"/>
+		<Metadata name="Configuration.ReactСписок" id="171a5beb-f0a3-4e44-86d4-71f58efed2ad" configVersion="455b9ea3a6a20b409afee01c9bac426200000000"/>
+		<Metadata name="Configuration.ReactСписок.ClientApplicationInterface" id="268abb44-2445-4188-9b14-7f08b66ebd45.b" configVersion="c0408b0d274c46479f1aeb362ff6148b00000000"/>
+		<Metadata name="Configuration.ReactСписок.HomePageWorkArea" id="268abb44-2445-4188-9b14-7f08b66ebd45.8" configVersion="a2df95dda80a1c43a46653c1df63f0f000000000"/>
+		<Metadata name="InformationRegister.ДанныеПродаж" id="d6601074-2953-4a96-baa1-705180d80f57" configVersion="a66308e468a4ba409167a8c2017fb90000000000">
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.ВидНоменклатуры" id="0114a525-e210-4f7f-a0a3-9bd7facd8608"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.ДатаПокупки" id="0eef74f3-ae51-44ef-9233-711bc69a8405"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Resource.Сумма" id="10492540-f411-43be-a3ef-1b6aed5982da"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.Филиал" id="2926781a-2c24-41e6-9656-79c2d47f2689"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Resource.Стоимость" id="4418713f-a238-4a47-a658-86e58038c20b"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Resource.ПроцентВаловойПрибыли" id="4c035588-1044-496d-b129-b2cc48284c84"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Resource.Количество" id="566263ba-8817-4d85-9a6c-3dc57c1c489c"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Resource.Цена" id="5f15478b-66f6-49d8-b1fa-3ef78fe5af11"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.ВремяПокупки" id="71f7f53d-114f-47dc-9d41-6f69152af3ae"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Resource.ВаловойДоход" id="76704508-996b-459a-a99a-2eacadc253a9"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.ИдентификаторСчетФактуры" id="7b681fa1-f285-465c-a55a-2142cb50539f"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Attribute.РейтингКлиента" id="9a340579-31b3-4d79-a675-7751dd19c2fa"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Resource.Налог" id="9f373177-83b3-4d2b-8bd7-11bfd9cf5876"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.Пол" id="a9f2068e-63c2-4729-9e36-9f672ed6e706"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.Город" id="e4b94b0e-b4ef-4c30-ae57-bc8e58de7749"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.ВидОплаты" id="e5d438a9-ac14-4693-ba78-796086e84ea7"/>
+			<Metadata name="InformationRegister.ДанныеПродаж.Dimension.ТипКлиента" id="f97d9f7b-99bf-4b76-aa73-1b6fe025b2d7"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="0ce7a9e4-9cfe-4152-b43b-9c89ebcfdec9" configVersion="c37dc3f34ff5934b92494231a4a1ea3900000000"/>
+		<Metadata name="Style.Основной" id="0f324a1f-4b5a-4e5e-9e64-f7495d352ad8" configVersion="ec47a250bc28284792030cfdfd087f9200000000"/>
+		<Metadata name="Style.Основной.Style" id="0f324a1f-4b5a-4e5e-9e64-f7495d352ad8.0" configVersion="428e1cbcc823d34388f2acd080f7a3ab00000000"/>
+		<Metadata name="Subsystem.ОсновнаяПодсистема" id="ad8d73eb-2bd7-4928-aea8-5a93fd811777" configVersion="82eeddced86182418546564a4531275100000000"/>
+		<Metadata name="Subsystem.ОсновнаяПодсистема.CommandInterface" id="ad8d73eb-2bd7-4928-aea8-5a93fd811777.1" configVersion="0f83bca9838e9e40b586d90ac8fc94bf00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
